@@ -45,10 +45,21 @@ The application follows strict fluid-dynamic boundary rules to ensure perfect co
 
 ## 5. Security & License Protective Shield
 
-Copyright (c) 2026 Abhishek Singh
+Copyright (c) 2026 Abhishek Singh  | UIDAI: 9414 9122 9013
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+# Important Notice
 
-This work, its core parameters, processing thresholds, and techno-economic calculations are securely published under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. 
+This repository contains code published for demonstration and testing purposes only. 
+The underlying intellectual property (IP) — including inventions, processes, methods, 
+algorithms, and research results — is proprietary and protected under Indian law and 
+international treaties (Berne Convention, Paris Convention, TRIPS Agreement).
 
-Any uncredited commercial appropriation, hidden corporate extraction, or closed proprietary implementation of these architectural frameworks is strictly prohibited under international IP and copyright protections. Adaptations and research variations must remain open-source under the identical copyleft framework.
+By accessing this repository, you agree:
+- The code may be viewed and studied for non-commercial, educational, or research use only.
+- Any reproduction, modification, distribution, or commercialization of the IP is strictly prohibited.
+- Enforcement of rights will be pursued under Indian jurisdiction and applicable international treaties.
+
+For licensing inquiries or commercial permissions, please contact:
+Abhishek Singh  | UIDAI: 9414 9122 9013
+Email: abhishek1033@gmail.com | abhishek.s@live.in
+Location: Madhya Pradesh, India
