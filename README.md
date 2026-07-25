@@ -1,6 +1,10 @@
 # Phase 2: Ground-Up Passivated Coal-Derived Anode Matrix
 ### Advanced Multi-Cluster Kinetics & Fluid Infiltration System for Pseudo-Ion Cells
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21566597.svg)](https://doi.org/10.5281/zenodo.21566597)
+![Status](https://img.shields.io/badge/Status-Research_POC-orange)
+![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
+
 This repository contains the complete technical architecture, parametric processing profiles, and techno-economic optimization frameworks for integrating a low-cost, high-performance passivated carbon anode into high-rate Pseudo-Ion battery cells. 
 
 ---
